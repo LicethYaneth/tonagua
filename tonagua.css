@@ -1,0 +1,30 @@
+body{
+    background-color: #37abbc;
+    font-family: 'Literata', serif;
+    color: white;
+    overflow-y: hidden;
+}
+p{
+    font-size: 1.1rem;
+}
+.h100{
+    height: 100vh !important;
+}
+img{
+    height: 100% !important;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    text-align: center;
+    padding: 10px;
+}
+a{
+    color: white;
+    transition: 250ms;
+}
+a:hover{
+    text-decoration: none;
+    color: #0244a9;
+}
